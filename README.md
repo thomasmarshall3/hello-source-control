@@ -5,3 +5,7 @@ Your read me files almost invariable suck. You like so many other developers are
 
 # Git-Out-Of-Trouble
 So we are still working in branches off of master, but all we are doing is editing this stupid read me. We have created a repo. We have created a branch. We have committed some relatively unprofessional things to our read me. Let's do a tutorial. Like this one: https://services.github.com/on-demand/git-trouble/
+
+# how-about-more training
+And this time maybe it won't be as messy as Git-Out-Of-Trouble. At least I'll likely get more practice cherry-picking.
+https://services.github.com/on-demand/resources/learning-path/
